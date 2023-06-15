@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@babylonjs/core": "^6.7.0",
+    "@babylonjs/materials": "^6.7.0",
     "@rollup/plugin-commonjs": "^25.0.1",
     "@rollup/plugin-node-resolve": "^15.1.0",
     "@rollup/plugin-typescript": "^11.1.1",

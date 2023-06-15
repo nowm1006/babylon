@@ -7,6 +7,11 @@
   resolved "https://registry.yarnpkg.com/@babylonjs/core/-/core-6.7.0.tgz#e489512e0408f84334d23b0147dcf3149816db9d"
   integrity sha512-ntrjJU/pkUiVXgBUi4CZYo1RZKHBbB4edJhSsV1VT0OrBeq03O98astKKBeboTLUJCkQTaWEuCayh5usAbjq9g==
 
+"@babylonjs/materials@^6.7.0":
+  version "6.7.0"
+  resolved "https://registry.yarnpkg.com/@babylonjs/materials/-/materials-6.7.0.tgz#f3de65ad996706e7c4d8f5768ac3596ae7ee7afb"
+  integrity sha512-bB8pdiSXv2AvVk9XkHR6W6tb/X0y7ATRI4VyLSx/pUCYHAs9MxX2vatSWUceEWHXeTScw8nVYL74OCZZ0YNBww==
+
 "@jridgewell/sourcemap-codec@^1.4.13":
   version "1.4.15"
   resolved "https://registry.yarnpkg.com/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.15.tgz#d7c6e6755c78567a951e04ab52ef0fd26de59f32"
