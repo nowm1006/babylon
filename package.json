@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "rollup -c -w"
+  },
   "dependencies": {
     "@babylonjs/core": "^6.41.0",
     "@babylonjs/materials": "^6.41.0",
